@@ -1,0 +1,17 @@
+{
+  "name": "rhaegar",
+  "version": "0.0.0",
+  "description": "A+ promises implementation",
+  "main": "lib/promise.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "devDependencies": {
+    "mocha": ""
+  },
+  "author": "Elvin Yung <elvin@elvinyung.com>",
+  "license": "MIT"
+}
